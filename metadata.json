@@ -1,0 +1,5 @@
+{
+  "name": "Harshit's Space - Virtual Try-On",
+  "description": "An AI-powered virtual try-on experience. Upload your photo and a photo of clothing to see how you'll look, brought to life by Gemini.",
+  "requestFramePermissions": []
+}
